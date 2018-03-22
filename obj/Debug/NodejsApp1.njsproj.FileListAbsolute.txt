@@ -1,0 +1,1 @@
+C:\workspc.nodejs\cean-web-chat\obj\Debug\NodejsApp1.njsprojResolveAssemblyReference.cache
